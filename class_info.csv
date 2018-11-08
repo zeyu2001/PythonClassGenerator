@@ -1,0 +1,3 @@
+PythonClassName; SuperClassName; ClassAttributes
+Person; object; name, Gender, DOB,
+Student; Person; name, Gender, DOB, Class
